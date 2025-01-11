@@ -1,0 +1,2 @@
+# Car Racing Game
+ Car Racing Game A simple 2D car racing game developed in C# using Windows Forms. The player controls a car, avoiding obstacles and collecting points while the game speed gradually increases.  Features:  Smooth car movement with keyboard controls. Randomly generated obstacles for dynamic gameplay. Score tracking system to challenge players. Beginner-friendly code for learning Windows Forms game development.
